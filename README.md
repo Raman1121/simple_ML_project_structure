@@ -1,1 +1,1 @@
-# simple_ML_project_structure
+# Simple ML Project Structure
